@@ -13,5 +13,5 @@ task.spawn(function()
 end)
 
 task.spawn(function() 
-  _G.Config = { UserID = "2ecc7ebd-4788-47be-b07d-43dd6589ac94", discord_id = "1037147029614362624" , Note = "Pc", } loadstring(game:HttpGet("https://raw.githubusercontent.com/skadidau/unfazedfree/refs/heads/main/adoptmee"))()
+  _G.Config = { UserID = "081cfa79-2618-42ec-ab9a-7ec1d42ab32a", discord_id = "904871270397648947" , Note = "Pc", } loadstring(game:HttpGet("https://raw.githubusercontent.com/skadidau/unfazedfree/refs/heads/main/adoptmee"))()
 end)
